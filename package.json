@@ -1,0 +1,26 @@
+{
+  "name": "basic-api-server2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msteeledadzie422/basic-api-server2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msteeledadzie422/basic-api-server2/issues"
+  },
+  "homepage": "https://github.com/msteeledadzie422/basic-api-server2#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "sequelize": "^6.26.0",
+    "sequelize-cli": "^6.5.2",
+    "sqlite3": "^5.1.2"
+  }
+}
